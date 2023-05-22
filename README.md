@@ -50,8 +50,8 @@ Este é um simples conversor de moedas que utiliza uma API para obter as taxas d
 ## ⚙️ Instalação:
 
 1. Clone o repositório;
-2. Instale as dependências necessárias: Requests `pip install requests` e Dotenv `pip install python-dotenv`
-3. Abra o arquivo .env e insira sua <a href="https://www.exchangerate-api.com/" target="_blank">`API_KEY`</a> 
+2. Instale as dependências necessárias: Requests `pip install requests` e Dotenv `pip install python-dotenv`;
+3. Abra o arquivo .env e insira sua <a href="https://www.exchangerate-api.com/" target="_blank">`API_KEY`</a> da Exchangerate (conversão de moedas);
 4. Entre no diretório src;
 5. Execute o comando `python main.py`;
 6. Siga as instruções na tela;
