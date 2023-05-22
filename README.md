@@ -10,6 +10,7 @@
 <div align="center">
 
 [**Sobre**](#-sobre) **|**
+[**Screenshot**](#-screenshot-menu) **|**
 [**Ferramentas Utilizadas**](#-tecnologias-e-ferramentas-utilizadas) **|**
 [**Instalação**](#%EF%B8%8F-instala%C3%A7%C3%A3o) **|**
 [**Desenvolvedor**](#-desenvolvedor)
@@ -19,20 +20,28 @@
 ## 📝 Sobre:
 Este é um simples conversor de moedas que utiliza uma API para obter as taxas de câmbio.
 
+## 📟 Screenshot Menu: 
+
+<div align="left">
+   <a href="https://github.com/ProfDiegoCavalca/projeto-outros-LuanR44">
+   <img alt="Menu" src=".github/Menu.png" width="30%"/>
+   </a>
+</div>
+
 ## 💾 Tecnologias e Ferramentas Utilizadas:
 <table>
   <tbody>
     <tr>
       <td style="font-weight: bold">Python</td>
       <td>
-        <a href="https://www.python.org/" target="_blank">Download</a>,
-        <a href="https://pypi.org/project/pip/" target="_blank">PIP</a>.
+        <a href="https://www.python.org/" target="_blank">Download</a>.
       </td>
     </tr>
     <tr>
       <td style="font-weight: bold">API</td>
       <td>
-        <a href="https://www.exchangerate-api.com/" target="_blank">Exchangerate API</a>.
+        <a href="https://www.exchangerate-api.com/" target="_blank">Exchangerate API</a>,
+        <a href="https://www.coingecko.com/pt/api" target="_blank">Coingecko API</a>.
       </td>
     </tr>
   </tbody>
